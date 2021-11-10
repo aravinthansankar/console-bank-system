@@ -1,0 +1,12 @@
+First Name|aravintha
+Last Name|sankar
+Address|asdasd
+Phone|4234234
+Email|aravinthansankar97@gmail.com
+AccountNo|100003
+Balance|9950
+11.10.2021|Deposit|50|50
+11.10.2021|Deposit|700|750
+11.10.2021|Withdraw|700|50
+11.10.2021|Deposit|10000|10050
+11.10.2021|Withdraw|100|9950

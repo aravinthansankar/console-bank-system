@@ -1,0 +1,9 @@
+First Name|aravinthan
+Last Name|sankar
+Address|23 mary street
+Phone|23435409
+Email|aravinthansankar97@gmail.com
+AccountNo|100002
+Balance|2679
+30.09.2021|Deposit|3000|3000
+30.09.2021|Withdraw|321|2679
